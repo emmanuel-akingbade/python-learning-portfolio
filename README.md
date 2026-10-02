@@ -1,1 +1,4 @@
-# python-learning-portfolio
+# Python Learning Portfolio
+
+This repository contains Python programs
+created during my Computer Science lesson
